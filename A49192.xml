@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Lovvden his learned and wise speech in the Vpper House of Parliament in Scotland September 9, 1641 declaring the great grievances of that kingdome and the cause that moved them to take up armes against England : also manifesting what great benefits and honour will arise of this happy peace and unity concluded on betwixt both kingdomes : with his honourable motion for the raysing of an army in both kingdomes to the restoring and setling of the prince elector in his country.</title>
+            <title>Learned and wise speech in the Upper House of Parliament in Scotland September 9, 1641, declaring the great grievances of that kingdome</title>
+            <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49192</idno>
+            <idno type="STC">Wing L3085</idno>
+            <idno type="STC">ESTC R8712</idno>
+            <idno type="EEBO-CITATION">12993923</idno>
+            <idno type="OCLC">ocm 12993923</idno>
+            <idno type="VID">96375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96375)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 259:E199, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Lovvden his learned and wise speech in the Vpper House of Parliament in Scotland September 9, 1641 declaring the great grievances of that kingdome and the cause that moved them to take up armes against England : also manifesting what great benefits and honour will arise of this happy peace and unity concluded on betwixt both kingdomes : with his honourable motion for the raysing of an army in both kingdomes to the restoring and setling of the prince elector in his country.</title>
+                  <title>Learned and wise speech in the Upper House of Parliament in Scotland September 9, 1641, declaring the great grievances of that kingdome</title>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96375:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>THE LORD LOWDEN HIS Learned and wiſe SPEECH in the Vp<g ref="char:EOLhyphen"/>per Houſe of PARLIAMENT in SCOTLAND, <hi>September</hi> 9. 1641.</p>
+            <p>Declaring the great grievances of that Kingdome, and the cauſe that moved them to take up Armes againſt <hi>England.</hi>
+            </p>
+            <p>Alſo Manifeſting what great benefits and honour will ariſe of this happy Peace and Unity concluded on betwixt both Kingdomes.</p>
+            <p>With his Honourable motion for the rayſing of an Army in both Kingdomes, to the reſtoring and ſetling of the PRINCE Elector in his Country.</p>
+            <p>LONDON, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:96375:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="1" facs="tcp:96375:2"/>
+            <!-- PDF PAGE 68 -->
+            <head>THE Wiſe and learned Speech of the Lord <hi>LOWDEN,</hi> in the Vpper Houſe of Parliament in <hi>Scotland,</hi> 1641.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>THe great differences between the two King<g ref="char:EOLhyphen"/>domes, <hi>England</hi> and <hi>Scotland,</hi> through the great mercy of God being now appeaſed, and an act of oblivion paſt of all by-gone deeds ſince the laſt troubles; we may with cheerefulneſſe and thank<g ref="char:EOLhyphen"/>fulneſſe, not only ſettle all things here at home, which by reaſon of the want of the benefit of ordinary judi<g ref="char:EOLhyphen"/>cature, are now out of order, likewiſe with all duty and affection to conſider of, and aſſiſt his Majeſty in ſuch matters and enterprizes, as he ſhall be pleaſed to propound unto us.</p>
+            <p>Now firſt for the difference give mee leave to ſay ſomewhat of them.</p>
+            <p>(And indeed) in ſpeaking ſomewhat of them I may hold my peace, and ſay nothing at all, for the truth is, there was no difference between the 2. Kingdomes.</p>
+            <p>There was troubles and feares on every ſide, but conſider, it was not through the default of the two Kingdomes, that were like to produce ſuch miſerable effects and calamities as were threatned; But it was the fault of malignant men, who by their wicked Actions and improvident Councells, ſtrived (what in them lay) to ſow the ſeeds of diſcord and diſcention
+<pb n="2" facs="tcp:96375:3"/>
+               <!-- PDF PAGE 69 -->betwixt his Royall Majeſty and good Subjects of both Kingdomes, if then theſe Calamities threatned and feared, were by ill Inſtruments wrought, and cau<g ref="char:EOLhyphen"/>ſed, and that now by the goodneſſe of the Almighty, the wiſdome of his Royall Majeſty and prudent en<g ref="char:EOLhyphen"/>deavours of the Honorable Aſſemblies of both King<g ref="char:EOLhyphen"/>domes, both the cauſe and the cauſers are removed and averted, what cauſe is there, or can be there ima<g ref="char:EOLhyphen"/>gined to be, that either Kingdome or any particular member of either, can be otherwiſe then really uni<g ref="char:EOLhyphen"/>ted, in more tender and hearty affection one towards another, then ever they were.</p>
+            <p>For our Kingdome of <hi>Scotland,</hi> however the great Impoſtures of theſe troubles, and ſcattered falſe Ru<g ref="char:EOLhyphen"/>mors and reports; both in the eares of his Majeſtie, and many of his Loyall and good Subjects, that wee ſhould ayme altogether at out owne ends, and that all our pretences were to inſinuate both into the hearts and eſtates of the Subjects of <hi>England;</hi> yet J hope it hath now fully appeared to his Majeſty, and the Honourable aſſembly of that Kingdome, and all other his loving Subjects, that will not be wilfully or maliciouſly blinded, that we ſought onely our owne peace, and not the leaſt prejudice, (much leſſe the ru<g ref="char:EOLhyphen"/>ine) of our Brethren of <hi>England,</hi> for the truth of this, I dare boldly ſay; I may call even the Northerne Countries to witneſſe, where our army lay, that they cannot ſay that our Souldiours uſed them as enemies, but as friends, and that where ſuch an army lay ſo longtime, there was ſo little harme done to a Coun<g ref="char:EOLhyphen"/>try, and that little which was done (I hope ſatisfacti<g ref="char:EOLhyphen"/>on is or ſhall ſuddenly be made) and hope none of his Majeſties good Subjects in <hi>England,</hi> will take it to
+<pb n="3" facs="tcp:96375:3"/>
+               <!-- PDF PAGE 69 -->be any diſhonor in granting us that ſumme of mony, the Parliament did, towards our great loſſes and char<g ref="char:EOLhyphen"/>ges, which have appeared to be more then douoled; and the ſummegranted, but a friendly demonſtration of one Nation towards another.</p>
+            <p>We are Brethren, not enemies, and by ill Inſtru<g ref="char:EOLhyphen"/>ments were forced both into the field, having no cauſe of malice one towards another. Let the miſ<g ref="char:EOLhyphen"/>chiefe then fall on neither Nation, but on thoſe In<g ref="char:EOLhyphen"/>ſtruments, let them be made Exemplary that was the cauſe of ſuch Calamities, and great miſeries, let the Honour be to his Majeſty, and the wiſe and prudent Aſſemblies of both Kingdomes, that have applyed themſelves to faire things, and compoſed the quar<g ref="char:EOLhyphen"/>rell, without ſhedding of blood, and even from a ſtate Gaſping, have reſtored both Kingdomes to their former unity, Peace and Concord; and disbanded the Armies upon reaſonable conditions; ſince then, there is ſuch an vnity, betweene both Kingdomes, and that the Armies are both vnited, in true hearty affection one towards another, how conſidetable may theſe armies make us abroad, if God ſhall bleſſe us, then certainly thoſe armies that were lately ready to of<g ref="char:EOLhyphen"/>fend one another, may ſhew a Capability with vnity of hearts, and well deſigned may effect great matters, and may by vnity of Councell, raiſe both Kingdomes to as great eſtimation, and as great honour in the world, as euer; and how can they be better deſig<g ref="char:EOLhyphen"/>ned then to reſtore the Electorall Family to their former inheritance, can there be a better cauſe then the truth of God? Can there be a cauſe wherein we can be more intereſſed, then to aſſiſt his Royall Ma<g ref="char:EOLhyphen"/>jeſties deareſt and onely Siſter, and her Royall iſſue,
+<pb n="4" facs="tcp:96375:4"/>
+               <!-- PDF PAGE 70 -->to obtaine their lawfull and right Inheritance, out of which they have beene ſo long time unjuſtly dive<g ref="char:EOLhyphen"/>ſted, doubtleſſe, there cannot; now, to the intereſt of the cauſe, let us adde his Majeſties propoſition, which makes all compleate.</p>
+            <p>Let us therefore proceed to the perfecting of ſo Religious, ſo lawfull, and ſo laudable a worke as this, and no doubt, but our Brethren of <hi>England</hi> will be as willing and forward as wee being intereſted in the cauſe alike as we are, I ſhall heere, not unfitly make mention of a homely ſtory; I have read of an Empe<g ref="char:EOLhyphen"/>rour in <hi>Turky,</hi> that hearing there was Civill warres in <hi>England,</hi> had a deſigne to have taken the advantage of the times, and invaded that Kingdome, but an <hi>En<g ref="char:EOLhyphen"/>gliſhman</hi> being in ſome favour and eſtimation with the Emperor, and wiſhing well to his Native Coun<g ref="char:EOLhyphen"/>try, cauſed a couple of Maſtive dogs to be ſet toge<g ref="char:EOLhyphen"/>ther by the eares before the Emperour, and as they were fighting, cauſed a Beare to be put to them which the Dogges perceiving, left fighting, and fell both upon the Beare. which the Emperour taking notice of, the Engliſhman told him he had cauſed that to be done, to ſhew him the condition of his Country<g ref="char:EOLhyphen"/>men, who would fall out among themſelves, yet they would take part each with other againſt an E<g ref="char:EOLhyphen"/>nemy; and therefore although they were at vari<g ref="char:EOLhyphen"/>ence amongſt themſelves, yet it would bee little advantage to his intended undertakings, upon which, the Emperour changed his reſolution touching that deſigne.</p>
+            <pb n="5" facs="tcp:96375:4"/>
+            <!-- PDF PAGE 70 -->
+            <p>If then this were the nature of <hi>Engliſhmen;</hi> unto whom wee now by the Almighties providence are vnited under one King, one Nation, and one Iſland, I doubt not but the ſame remaines, and although wee have beene lately ready to offend each other, yet being now united in more tender and hearty affecti<g ref="char:EOLhyphen"/>on, one towards another then ever wee were, ſhall hold and maintaine ſuch a good correſpondence amongſt our ſelves, that ſhall not onely bring both Nations to a condition of proſperi<g ref="char:EOLhyphen"/>ty at home, but make us formyda<g ref="char:EOLhyphen"/>ble to our enemies a<g ref="char:EOLhyphen"/>broad.</p>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
